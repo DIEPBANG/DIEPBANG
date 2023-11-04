@@ -1,2 +1,3 @@
-hi moi nguoi
+hi moi 
+rat vui dc gap bn
 
